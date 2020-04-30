@@ -1,5 +1,5 @@
-# constructorDiv
- Using the constructor, create a div with various parameters and add text to it.
+# Usibg class create a div
+ Using the class, create a div with various parameters and add text to it.
 
 First we create a class and call it “Option”, ***but you can name it whatever you want***.
 
